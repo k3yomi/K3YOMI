@@ -9,16 +9,13 @@
 ###
 
 <div align="center">
-  <a href="k3yomi" target="_blank">
+  <a href="https://ko-fi.com/k3yomi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="73" height="50" alt="ko-fi logo"  />
   </a>
-  <a href="kiyomi" target="_blank">
+  <a href="https://discord.com/users/359794704847601674" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="73" height="50" alt="discord logo"  />
   </a>
-  <a href="k3yomi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="73" height="50" alt="youtube logo"  />
-  </a>
-  <a href="KiyomiWx" target="_blank">
+  <a href="https://x.com/KiyomiWx" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="73" height="50" alt="twitter logo"  />
   </a>
 </div>
