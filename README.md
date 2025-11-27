@@ -9,11 +9,11 @@
 ###
 
 <div align="center">
-  <a href="kiyomi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="73" height="50" alt="discord logo"  />
-  </a>
   <a href="k3yomi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="73" height="50" alt="ko-fi logo"  />
+  </a>
+  <a href="kiyomi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="73" height="50" alt="discord logo"  />
   </a>
   <a href="k3yomi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="73" height="50" alt="youtube logo"  />
