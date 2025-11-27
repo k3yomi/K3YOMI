@@ -1,15 +1,12 @@
 <div align="center">
-  <img height="200" src="https://github.com/user-attachments/assets/ea5445ed-2f03-4648-913c-0f5b8917379a"  />
+  <img height="200" src="https://github.com/k3yomi/K3YOMI/blob/5f5badd8ff40e708d94360fe2e6e49dca57d843b/media/519892819-2e9b8867-e672-47a9-8c1a-20ba5e1f7397.png?raw=true"  />
 </div>
 
-
 ###
 
-<h2 align="center">Hello, I'm k3yomi (KiyoWx, Kiyomi)</h2>
+<h1 align="center">Hello, I'm k3yomi (KiyoWx, Kiyomi)</h1>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="kiyomi" target="_blank">
@@ -28,24 +25,7 @@
 
 ###
 
-
-<br clear="both">
-
-<img align="right" height="225" src="https://github.com/user-attachments/assets/c20e0279-ce03-4919-9991-0d7c09c089f7"/>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://github-production-user-asset-6210df.s3.amazonaws.com/54733885/519902726-283149e6-a307-4c21-8c72-7284fa363641.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251127%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251127T223312Z&X-Amz-Expires=300&X-Amz-Signature=32f9df36eed1f13bb9f856944bafdea2569fe406d121ffc790a12f135200a991&X-Amz-SignedHeaders=host"  />
-
-###
-
-<img align="right" height="200" src="https://github-production-user-asset-6210df.s3.amazonaws.com/54733885/519902733-a07d0eca-4904-4c41-b568-16216f202b09.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251127%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251127T223323Z&X-Amz-Expires=300&X-Amz-Signature=8685c231113d4a99efe061da5f9bbdf2c169ea41e9c58af8cea71211ff685c6e&X-Amz-SignedHeaders=host"  />
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=ae" height="60" alt="adobeaftereffects logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=au" height="60" alt="adobeaudition logo"  />
