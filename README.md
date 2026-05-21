@@ -15,7 +15,7 @@
   <a href="https://discord.com/users/359794704847601674" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="73" height="50" alt="discord logo"  />
   </a>
-  <a href="https://x.com/KiyomiWx" target="_blank">
+  <a href="https://x.com/atmosx_wx" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="73" height="50" alt="twitter logo"  />
   </a>
 </div>
