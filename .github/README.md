@@ -37,22 +37,24 @@ If you enjoy my projects and would like to support my work, consider donating th
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td align="center">
         <img src="/.github/assets/lightning-atmosx.png" width="400" height="250" style="object-fit: cover;"/>
       </td>
-      <td>
+      <td align="center">
         <img src="/.github/assets/shelf-atmosx.png" width="400" height="250" style="object-fit: cover;"/>
-      </td>
-      <td>
-        <img src="/.github/assets/tornado-2026.png" width="400" height="250" style="object-fit: cover;"/>
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <img src="/.github/assets/shelf-2-atmosx.png" width="400" height="250" style="object-fit: cover;"/>
       </td>
       <td align="center">
         <img src="/.github/assets/meso-atmosx.png" width="400" height="250" style="object-fit: cover;"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="/.github/assets/tornado-2026.png" width="400" height="250" style="object-fit: cover;"/>
       </td>
       <td align="center">
         <img src="/.github/assets/kansas-2026-shelf.png" width="400" height="250" style="object-fit: cover;"/>
@@ -65,9 +67,12 @@ If you enjoy my projects and would like to support my work, consider donating th
       <td align="center">
         <img src="/.github/assets/kiyowx-kansas-2025.png" width="400" height="250" style="object-fit: cover;"/>
       </td>
-       <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
         <img src="/.github/assets/massive.png" width="400" height="250" style="object-fit: cover;"/>
       </td>
+      <td></td>
     </tr>
   </table>
 </div>
