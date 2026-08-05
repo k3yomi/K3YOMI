@@ -71,10 +71,3 @@ If you enjoy my projects and would like to support my work, consider donating th
     </tr>
   </table>
 </div>
-
-
-## My Contributions
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k3yomi&radius=16&theme=github-dark&area=true&order=5&custom_title=My%20Contributions&hide_border=false" height="300" alt="activity-graph graph"  />
-</div>
