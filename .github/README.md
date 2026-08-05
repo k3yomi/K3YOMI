@@ -35,44 +35,34 @@ If you enjoy my projects and would like to support my work, consider donating th
 
 
 <div align="center">
-  <table>
+  <table cellpadding="0" cellspacing="0">
     <tr>
       <td align="center">
-        <img src="/.github/assets/lightning-atmosx.png" width="400" height="250" style="object-fit: cover;"/>
+        <img src="/.github/assets/lightning-atmosx.png" width="350" height="220"/>
       </td>
       <td align="center">
-        <img src="/.github/assets/shelf-atmosx.png" width="400" height="250" style="object-fit: cover;"/>
+        <img src="/.github/assets/shelf-atmosx.png" width="350" height="220"/>
       </td>
-    </tr>
-    <tr>
+    </tr><tr>
       <td align="center">
-        <img src="/.github/assets/shelf-2-atmosx.png" width="400" height="250" style="object-fit: cover;"/>
-      </td>
-      <td align="center">
-        <img src="/.github/assets/meso-atmosx.png" width="400" height="250" style="object-fit: cover;"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="/.github/assets/tornado-2026.png" width="400" height="250" style="object-fit: cover;"/>
+        <img src="/.github/assets/shelf-2-atmosx.png" width="350" height="220"/>
       </td>
       <td align="center">
-        <img src="/.github/assets/kansas-2026-shelf.png" width="400" height="250" style="object-fit: cover;"/>
+        <img src="/.github/assets/meso-atmosx.png" width="350" height="220"/>
       </td>
-    </tr>
-    <tr>
+    </tr><tr>
       <td align="center">
-        <img src="/.github/assets/potniac-2026.png" width="400" height="250" style="object-fit: cover;"/>
+        <img src="/.github/assets/tornado-2026.png" width="350" height="220"/>
       </td>
       <td align="center">
-        <img src="/.github/assets/kiyowx-kansas-2025.png" width="400" height="250" style="object-fit: cover;"/>
+        <img src="/.github/assets/massive.png" width="350" height="220"/>
       </td>
-    </tr>
-    <tr>
+    </tr><tr>
       <td align="center">
-        <img src="/.github/assets/massive.png" width="400" height="250" style="object-fit: cover;"/>
+        <img src="/.github/assets/potniac-2026.png" width="350" height="220"/>
       </td>
-      <td></td>
-    </tr>
+      <td align="center">
+        <img src="/.github/assets/kiyowx-kansas-2025.png" width="350" height="220"/>
+      </td>
   </table>
 </div>
