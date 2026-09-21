@@ -26,44 +26,10 @@
 
 ## About me
 
-I'm a software engineer with an associate's degree in cybersecurity who enjoys building, experimenting with, and maintaining projects across frontend and backend environments.
+I'm a software engineer / security researcher with an associate's degree in cybersecurity who enjoys building, experimenting with, and maintaining projects across frontend and backend environments.
 
 I work across the full stack, from designing user interfaces and developing backend services to managing infrastructure and everything in between. As a project maintainer, I focus on building and contributing to open source projects with an emphasis on security, reliability, and creating useful tools for developers and communities.
 
-Outside of software development, I run a storm chasing community called [AtmosphericX](https://atmosphericx-discord.scriptkitty.cafe), which I operate alongside [CJ Ziegler](https://www.youtube.com/@CJZiegler) and [StarflightWx](https://x.com/starflightVR). I actively participate in the storm chasing community and enjoy combining technology with real world data, weather observation, and forecasting. My storm chasing experience spans a wide range of locations, from the North Woods of Wisconsin to Southern Texas, where I have followed and documented a variety of severe weather events.
+Outside of software development, I run a storm chasing community [AtmosphericX](https://atmosphericx-discord.scriptkitty.cafe), which I operate alongside [CJ Ziegler](https://www.youtube.com/@CJZiegler) and [StarflightWx](https://x.com/starflightVR). I actively participate in the storm chasing community and enjoy combining technology with real world data, weather observation, and forecasting. My storm chasing experience spans a wide range of locations, from the North Woods of Wisconsin to Southern Texas, where I have followed and documented a variety of severe weather events.
 
 If you enjoy my projects and would like to support my work, consider donating through my [KoFi](https://ko-fi.com/k3yomi). Donations help support my storm chasing efforts, ongoing projects, and hardware upgrades that allow me to continue exploring, developing, and creating new tools.
-
-
-<div align="center">
-  <table cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center">
-        <img src="/.github/assets/lightning-atmosx.png" width="350" height="220"/>
-      </td>
-      <td align="center">
-        <img src="/.github/assets/shelf-atmosx.png" width="350" height="220"/>
-      </td>
-    </tr><tr>
-      <td align="center">
-        <img src="/.github/assets/shelf-2-atmosx.png" width="350" height="220"/>
-      </td>
-      <td align="center">
-        <img src="/.github/assets/meso-atmosx.png" width="350" height="220"/>
-      </td>
-    </tr><tr>
-      <td align="center">
-        <img src="/.github/assets/tornado-2026.png" width="350" height="220"/>
-      </td>
-      <td align="center">
-        <img src="/.github/assets/massive.png" width="350" height="220"/>
-      </td>
-    </tr><tr>
-      <td align="center">
-        <img src="/.github/assets/potniac-2026.png" width="350" height="220"/>
-      </td>
-      <td align="center">
-        <img src="/.github/assets/kiyowx-kansas-2025.png" width="350" height="220"/>
-      </td>
-  </table>
-</div>
