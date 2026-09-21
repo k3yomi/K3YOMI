@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img height="200" src="/.github/assets/atmosx-non-vector-3.png"  />
+  <img height="500" src="https://github.com/user-attachments/assets/bedd0f75-0186-4343-ab21-a45651e0837c"  />
 </div>
 
 # Hello, I'm Kiyomi (Kai-o-me)
