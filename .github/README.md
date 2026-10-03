@@ -1,7 +1,8 @@
 
 <div align="center">
-  <img height="500" src="https://github.com/user-attachments/assets/bedd0f75-0186-4343-ab21-a45651e0837c"  />
+  <img width="1200"  alt="image" src="https://github.com/user-attachments/assets/d3655f58-ce20-4248-9f62-d99f1189c89c" />
 </div>
+
 
 # Hello, I'm Kiyomi (Kai-o-me)
 
