@@ -4,7 +4,7 @@
 </div>
 
 
-# Hello, I'm Kiyomi (Kai-o-me)
+# Hello, I'm Kiyomi (Kai-o-me) 
 
 - **[Wall of Flippers](https://github.com/k3yomi/Wall-of-Flippers)** <span style="float:right">`★★★★★` `1k+ ⭐`</span>  
   A simple and accessible way to discover Flipper Zero devices and Bluetooth Low Energy based attacks.
@@ -15,19 +15,19 @@
 - **[Event Product Parser](https://github.com/AtmosphericX/event-product-parser)** <span style="float:right">`★★★★☆` `5+ ⭐`</span>  
   A TypeScript and JavaScript library for parsing and ingesting NOAA and NWS weather text products.
 
-- **[Citizen Connection Library](https://citizen.scriptkitty.cafe)** <span style="float:right">`★★★★☆` `🔒`</span>  
+- **[Citizen Connection Library (Discontinued)](https://citizen.scriptkitty.cafe)** <span style="float:right">`★★★★☆` `🔒`</span>  
   A library providing analytics and integrations for Discord servers, FXServers, VRChat instances, Roblox experiences, and more.
 
 - **[FiveAC Anticheat](https://scriptkitty.cafe)** <span style="float:right">`★★★★☆` `🔒`</span>  
   An anticheat solution designed for Cfx.re FiveM servers running GTAV Legacy and Enhanced.
 
 - **[Scriptkitty.cafe](https://scriptkitty.cafe)** <span style="float:right">`★★★☆☆` `🔒`</span>  
-  My personal website that provides custom bios, FastFetch profiles, and hosts various projects, tools, and APIs.
+  My personal website that provides custom bios, profiles, and hosts various projects, tools, and APIs.
 
 
 ## About me
 
-I'm a software engineer / security researcher with an associate's degree in cybersecurity who enjoys building, experimenting with, and maintaining projects across frontend and backend environments.
+I'm a software engineer / security researcher with an degree in cybersecurity who enjoys building, experimenting with, and maintaining projects across frontend and backend environments.
 
 I work across the full stack, from designing user interfaces and developing backend services to managing infrastructure and everything in between. As a project maintainer, I focus on building and contributing to open source projects with an emphasis on security, reliability, and creating useful tools for developers and communities.
 
