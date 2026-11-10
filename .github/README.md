@@ -4,7 +4,7 @@
 </div>
 
 
-# Hello, I'm Kiyomi (Kai-o-me) 
+# Hello, I'm Kiyo-May (Kai-o-may) 
 
 - **[Wall of Flippers](https://github.com/k3yomi/Wall-of-Flippers)** <span style="float:right">`★★★★★` `1k+ ⭐`</span>  
   A simple and accessible way to discover Flipper Zero devices and Bluetooth Low Energy based attacks.
